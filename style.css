@@ -1,12 +1,14 @@
 body{
     background-color: #808080;
     text-align: center;
+
 }
     
     .img1   {
         height: 300px;
         width: 400px;
         margin-right: 1000;
+
     }
     .text{
         margin-bottom: 5px;
@@ -19,10 +21,12 @@ body{
     }
     .card{
         margin-left:  70px;;
+        justify-content: center;
     }
     .cart1{
     display: flex;
     margin-top: 40px ;
+    justify-content: center;
     }
     .card-img-top{
     height: 200px;
@@ -38,5 +42,8 @@ background-color: #183338;
     .img2{
  width: 100px;
 margin-left: 1300px;
+    }
+    .bascet{
+         
     }
         
